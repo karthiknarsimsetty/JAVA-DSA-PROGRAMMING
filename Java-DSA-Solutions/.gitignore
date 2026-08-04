@@ -1,0 +1,14 @@
+.DS_Store
+*.class
+target/
+out/
+.idea/
+*.iml
+.gradle/
+
+# Maven / Gradle
+pom.xml
+build.gradle
+
+# IntelliJ
+*.iws
